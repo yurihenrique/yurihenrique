@@ -1,4 +1,6 @@
 ---
+layout: post
+title: '"Ele está vivo!"'
 published: true
 ---
 
