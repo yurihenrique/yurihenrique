@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-Some information about you!
+Yuri Henrique, gosto de tecnologia, mas tenho muito cuidado, a tecnologia não deve substituir a vida, de forma alguma...
+E não coloquem chip's no seu corpo, pode dar muito errado... nem se todo mundo estiver colocando, se isso acontecer, fuja para os montes sem olhar pra trás, vão querer te matar.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Leia a Biblia. Jesus não é Maria.
 
-### Contact me
+### Contato
 
-[email@domain.com](mailto:email@domain.com)
+[e-mail](mailto:yurihenriq848@gmail.com)
+
+Ou Plus, logo abaixo.
